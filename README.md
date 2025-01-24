@@ -1,4 +1,4 @@
-# Rectangle Boundary Detection Using NumPy and Matplotlib
+# Rectangle Boundary Detection
 
 ## Project Overview
 This project demonstrates how to compute and visualize the boundaries of multiple rectangles on a grid using **NumPy** and **Matplotlib**. It was developed as part of the **Computational Geometry** course in university, showcasing fundamental techniques for geometric processing and visualization in Python.
@@ -26,8 +26,8 @@ This project demonstrates how to compute and visualize the boundaries of multipl
 3. **Boundary Detection:** Each pixel in the grid is checked to determine if it lies on the boundary of a rectangle.
 4. **Contour Extraction:** Boundary pixels are collected as `(x, y)` coordinates.
 5. **Visualization:**
-   - Red edges represent the input rectangles.
-   - Blue lines highlight the computed boundaries.
+   - Blue edges represent the input rectangles.
+   - Red lines highlight the computed boundaries.
 
 ---
 
